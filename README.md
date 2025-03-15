@@ -5,6 +5,7 @@ My Gallery is a simple, responsive web-based image gallery built using HTML and 
 
 ## Features
 - A clean and simple layout.
+- Responsive Layout
 - Easy to customize by adding or modifying images and styles.
 - Lightweight and fast loading.
 
