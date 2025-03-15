@@ -21,10 +21,6 @@ MyGallery/
 │── favicon.ico           # Favicon for the website
 ```
 
-## Customization
-- To add more images, insert additional `<figure class="card">` elements inside the `.gallery` div.
-- Modify `styles.css` to change the layout, colors, or fonts.
-
 ## Author
 Developed by [Nitya Prakash Pattanaik].
 
